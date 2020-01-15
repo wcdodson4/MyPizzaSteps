@@ -4,3 +4,4 @@
 4. Order pizza 
 5. new button
 6. new color
+7. eat pizza 
